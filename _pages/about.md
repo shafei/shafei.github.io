@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Google Research</a>. Note this site is being constructed. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
