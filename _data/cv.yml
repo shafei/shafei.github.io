@@ -3,86 +3,97 @@
   contents:
     - name: Full Name
       value: Fei Sha
-    - name: Date of Birth
-      value: 22nd August 
-    - name: Languages
-      value: Mandarin, English
+    - name: Contact
+      value: me at feisha dot org 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Pennsylvania, Philadelphia, PA, USC
+      institution: University of Pennsylvania, Philadelphia, PA
       year: 2007
       description:
-        - "Advisor: Prof. Lawrence K. Saul"
-        - PhD Thesis Committee: Prof. Fernando Pereira, Prof. Sam Roweis, Prof. Dan Lee
-        - Thesis: Large Margin Hidden Markov Models for Automatic Speech Recognition
+        - <b>Advisor:</b> Prof. Lawrence K. Saul
+        - <b>PhD Thesis Committee:</b> Prof. Fernando Pereira, Prof. Sam Roweis, Prof Mitch Marcus Prof. Dan Lee
+        - <b>Thesis:</b> Large Margin Training of Acoustic Models for Speech Recognition
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Adjunct Professor
+      institution: University of Southern California, Los Angeles, CA, US
+      year: 2021 - 2023
+ 
+    - title: Professor 
+      institution: University of Southern California, Los Angeles, CA, US
+      year: 2020 - 2021
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Associate Professor
+      institution: University of Southern California, Los Angeles, CA, US
+      year: 2014 - 2020 
+      
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Associate Professor
+      institution: University of California, Los Angeles, CA, US
+      year: 2016 - 2017 
+      
+    - title: Assistant Professor
+      institution: University of Southern California, Los Angeles, CA, US
+      year: 2008 - 2014
 
-- title: Open Source Projects
+- title: Industry Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Scientist and Manager
+      institution: Google Research, Mountain View, CA
+      year: 2019 - now
+
+
+    - title: Director of Machine Learning
+      institution: Netflix Research, Los Gatos, CA
+      year: 2018 - 2019
+
+
+    - title: Research Scientist
+      institution: Yahoo! Research, Sunnyvale, CA
+      year: 2007 - 2008
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2013
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Alfred P. Sloan Research Fellowship 
+
+    - year: 2012
       items: 
-        - Max Planck Medal
+        - Army Research Office Young Investigator Award
+
+    - year: 2006
+      items: 
+        - Outstanding Student Paper, Neural Information Processing Systems (NIPS)
+
+    - year: 2004
+      items:
+        - Outstanding Student Paper, Intl Conference on Machine Learning (ICML)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence and Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Probabilistic Models and Algorithms, Representation Learning
+        - Natural Language Processing and Understanding, Knowledge Representation and Reasoning
+        - Computer Vision, Multimodal Learning 
+    - title: AI for Science / Scientific Machine Learning 
       items:
-        - Description 1.
-        - Description 2.
+        - Turbulent Flow and Closure Modeling 
+        - Probabilistic Modeling and Inference for Physics-based Dynamical Systems
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: AI for Weather and Climate 
+      items:
+        - Probabilistic Modeling in Weather Forecast and Climate Modeling
+        - AI/ML Tools for Large-scale Weather and Climate Data Modeling and Analysis
+
+

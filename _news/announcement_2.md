@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Going to [ICML 2023](http://icml.cc)!
+going to [ICML 2023](http://icml.cc)!
