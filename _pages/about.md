@@ -23,4 +23,4 @@ I am a Research Scientist at Google Research.
 
 My research interests are Artificial Intelligence/Machine Learning (AI/ML), and AI for Science/Scientific Machine Learning (SciML), with a specific application focus on AI for Weather and Climate Science.  At Google Research, I lead a team of scientists and engineers, working in those directions. 
 
-Previously, I was a Professor of Computer Science at University of Southern California (USC). I no longer admit students and postdocs there. So please do not inquire those opportunities with me.
+I was a Professor of Computer Science at University of Southern California (USC). I no longer admit students and postdocs there. So please do not inquire those opportunities with me.
