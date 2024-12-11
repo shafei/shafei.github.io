@@ -14,12 +14,16 @@
       year: 2007
       description:
         - <b>Advisor:</b> Prof. Lawrence K. Saul
-        - <b>PhD Thesis Committee:</b> Prof. Fernando Pereira, Prof. Sam Roweis, Prof Mitch Marcus Prof. Dan Lee
+        - <b>PhD Thesis Committee:</b> Prof. Fernando Pereira, Prof. Sam Roweis, Prof Mitch Marcus, Prof. Dan Lee
         - <b>Thesis:</b> Large Margin Training of Acoustic Models for Speech Recognition
 
 - title: Academic Experience
   type: time_table
   contents:
+
+    - title: Associate
+      institution: Harvard Univrsity (School of Engineering and Applied Sciences)
+      year: 2024 - present
 
     - title: Adjunct Professor
       institution: University of Southern California, Los Angeles, CA, US
