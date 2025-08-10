@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-19 15:59:00-0400
+date: 2024-07-04 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-giving a talk at  [Future of Machine Learning Symposium](https://sites.google.com/view/future-of-ml-ista/speakers?authuser=0)
+starting to serve as Program Co-Chair for [ICLR 2025](http://iclr.cc)
