@@ -26,3 +26,5 @@ My research interests are Artificial Intelligence / Machine Learning (AI/ML), an
 I was a Professor of Computer Science at University of Southern California (USC). I no longer offer research assistantships, postdoc or internship positions there. So please do <b>not</b> inquire those opportunities with me.
 
 I do respond to service requests from research communities, including writing reference letters, serving on (grant) panels and editorial boards, organizing conferences. My bandwidth is limited so I apologize in advance if your request is not responded promptly.
+
+<b>Latest:</b> <a href='https://docs.google.com/presentation/d/1luEDQ6uMaR-sHN8mkRA92LudTLr3OBK3/edit?usp=share_link&ouid=104699479214310585780&rtpof=true&sd=true'>my talk on our recent work on AI for Fluid Dynamics</a>
