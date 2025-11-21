@@ -6,12 +6,12 @@ subtitle: <i>Scientist and engineer in artificial intelligence and machine learn
 
 profile:
   align: right
-  image: feisha.jpg
+  image: feisha2025_highres.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>355 Main Street</p>
-    <p>Cambridge,  MA 02142</p>
-    <p>Work: fsha at google dot com</p>
+    <p>1 Meta Way</p>
+    <p>Menlo Park,  CA 94025</p>
+    <p>Work: feisha at meta dot com</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at <a href='http://research.google.com'>Google Research</a>. 
+I am an AI Research Scientist at Meta. 
+
+
+I was a research scientist at <a href='http://research.google.com'>Google Research</a>. 
 
 My research interests are Artificial Intelligence / Machine Learning (AI/ML), and AI for Science / Scientific Machine Learning (SciML).  At Google Research, I lead a team of scientists and engineers, working in those directions. 
 
